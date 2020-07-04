@@ -38,25 +38,14 @@ disqusShortname = ""
     facebook = "#"
     twitter = "#"
 	instagram = "#"
-	tumblr = "#"
-	reddit = "#"
-	pinterest = "#"
 	youtube = "#"
     vimeo = "#"
 	weibo = "https://google.com"
-	vk = "#"
 	linkedin = "#"
 
 	# Writing
     medium = "#"
-	blogger = "#"
 	wordpress = "#"
-
-	# Creative & Visual
-    dribbble = "#"
-	behance = "#"
-	deviantart = "#"
-	flickr = "#"
 
     # Audio & Music
     soundcloud = "#"
@@ -64,12 +53,9 @@ disqusShortname = ""
 	# Programming
     github = "#"
 	stackoverflow = "#"
-	gitlab = "#"
-	codepen = "#"
 
     # Academic
     googlescholar = "#"
-    impactstory = "#"
     orcid = "#"  
 
 # Menu links along the sidebar navigation.
