@@ -2,7 +2,12 @@
 title: "Blog2"
 date: 2020-07-04T00:53:26-04:00
 draft: true
-tag: 'Django'
+tags: [
+	"Django",
+	"Python",
+]
+type: "post"
+
 ---
 
 # Problems encountered when deploying Django
