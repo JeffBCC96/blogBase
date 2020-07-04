@@ -26,7 +26,7 @@ disqusShortname = ""
 	math = true
 	# Blog description at the top of the homepage. Supports markdown.
 	description = "Here is Rong's Blog, I will share my personal life as well as some knowledge of bioinformatics "
-    showReadMore = false
+    showReadMore = true
 
     # Set enableKofi to true to enable the Ko-fi support button. Add your Ko-fi ID to link to your account.
     enableKofi = false
@@ -34,14 +34,13 @@ disqusShortname = ""
 
 	# Add links to your accounts. Remove the ones you don't want to include.
 	# Main
-	email = "#"
+	  email = "<472757990@qq.com>"
     facebook = "#"
-    twitter = "#"
-	instagram = "#"
-	youtube = "#"
+	  instagram = "#"
+	  youtube = "#"
     vimeo = "#"
-	weibo = "https://google.com"
-	linkedin = "#"
+	  weibo = "https://google.com"
+	  linkedin = "#"
 
 	# Writing
     medium = "#"
@@ -51,8 +50,7 @@ disqusShortname = ""
     soundcloud = "#"
 
 	# Programming
-    github = "#"
-	stackoverflow = "#"
+    github = "https://github.com/jeffBCC96"
 
     # Academic
     googlescholar = "#"
@@ -79,8 +77,6 @@ disqusShortname = ""
 
 # Privacy configurations: https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
-  [privacy.disqus]
-    disable = false
   [privacy.googleAnalytics]
     anonymizeIP = true
     disable = false
