@@ -11,7 +11,6 @@ description: "Know how to deploy Django through AWS (lightsail specifically)"
 
 ---
 
-# Problems encountered when deploying Django
 *Author: Rong Ma*
 
 ## 1. 基础知识
@@ -19,7 +18,7 @@ description: "Know how to deploy Django through AWS (lightsail specifically)"
 	* 一个分布式域名查询系统，将输入的域名(Domain) 变成相对应 IP 的系统。主要根据分级的根和域来确定对应的数据库从而找到相应的ip地址。 [具体说明](https://blog.csdn.net/qq_31930499/article/details/79767330) 
 
 2. Lightsail 
-   * Amazon 出品的linux 服务器 并且自带一个安装好的软件。[官网](https://https://aws.amazon.com/cn/)
+   * Amazon 出品的linux 服务器 并且自带一个安装好的软件。[官网](https://aws.amazon.com/cn/)
 
 
 
