@@ -4,7 +4,7 @@ title = "Rong Ma"
 theme = "noteworthy"
 enableRobotsTXT = true
 paginate = 8 # Set the number of posts to show before overflowing to the next page.
-summaryLength = 10 # Configure how long the post summary should be on the homepage.
+summaryLength = 20 # Configure how long the post summary should be on the homepage.
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 googleAnalytics = "UA-171616897-1" 
@@ -34,7 +34,7 @@ disqusShortname = ""
 
 	# Add links to your accounts. Remove the ones you don't want to include.
 	# Main
-	  email = "<472757990@qq.com>"
+	  email = "mailto:472757990@qq.com"
     facebook = "#"
 	  instagram = "#"
 	  youtube = "#"

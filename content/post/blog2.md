@@ -1,7 +1,7 @@
 ---
-title: "Blog2"
+title: "Django Deploying"
 date: 2020-07-04T00:53:26-04:00
-draft: true
+draft: false
 tags: [
 	"Django",
 	"Python",
