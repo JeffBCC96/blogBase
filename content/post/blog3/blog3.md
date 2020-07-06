@@ -1,7 +1,7 @@
 ---
 title: "Blog3"
 date: 2020-07-05T11:14:03-04:00
-draft: true
+draft: false
 tags: [
     "Python",
 ]
