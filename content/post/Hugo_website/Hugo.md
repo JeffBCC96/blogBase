@@ -1,5 +1,5 @@
 ---
-title: "用Hugo建立个人博客"
+title: "Hugo建立个人博客"
 date: 2020-07-06T16:24:17-04:00
 draft: false
 description: "Construct Hugo Website"
