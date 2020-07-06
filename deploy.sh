@@ -7,10 +7,10 @@ fi
 msg="$1"
 git add . 
 git commit -m "$msg"
-if [ $? -ne 0 ]; then
-    echo "Failed Commitment "
-    exit 1
-fi
+# if [ $? -ne 0 ]; then
+#     echo "Failed Commitment "
+#     exit 1
+# fi
 
 git push origin master
 if [ $? -ne 0 ]; then
