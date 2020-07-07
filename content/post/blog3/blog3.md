@@ -26,3 +26,7 @@ I am the best *I am the *
 print('hello')
 
 ```
+
+
+[不错的东西](../../../data/deploy.sh)
+[还行](./deploy.sh)
