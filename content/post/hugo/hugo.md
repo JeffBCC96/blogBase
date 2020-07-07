@@ -15,8 +15,9 @@ type: "post"
 
 **准备工作**
 
-*以下命令最好在Mac terminal中进行并用自己定义的名字去替换<>中的内容*
-1. `brew hugo` 或者去[hugo官网](https://gohugo.io)下载
+*以下命令最好在<mark>Mac terminal</mark>或者 <mark>Linux</mark> 中进行并用自己定义的名字去替换<>中的内容*
+
+1. `brew install hugo` 或者去[hugo官网](https://gohugo.io)下载
 2. `hugo new site <网站名字>`
 3. 去 Git hub 上创建两个repositories
    1. 网页仓库地址： `<username>.github.io` 来存放你的网页代码 
@@ -26,7 +27,7 @@ type: "post"
 6. `git remote add origin <总仓库地址>`
 7. 去themes.hugo 下载想要的主题 
 8. `git submodule -b origin <主题git地址> <themes/主题名字>`
-   
+
 **搭建和调试**
 1. 换一下这个conf 文件 或者 直接用 example_site 
 2. `git new post/<blogNmae>.md`

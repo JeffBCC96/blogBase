@@ -6,5 +6,6 @@ description: ""
 tags: [
     "Python",
 ]
+type: "post"
 ---
 
