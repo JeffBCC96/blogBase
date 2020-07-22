@@ -30,7 +30,7 @@ type: "post"
 
 **搭建和调试**
 1. 换一下这个conf 文件 或者 直接用 example_site 
-2. `git new post/<blogNmae>.md`
+2. `hugo new post/<blogNmae>.md`
 3. 启动本地服务器
    1.  `hugo server -t <主题地址> --buildDrafts`
    2.  `hugo --theme=<主题名字> --baseUrl=<网页仓库地址> --buildDrafts`
