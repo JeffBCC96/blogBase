@@ -1,7 +1,7 @@
 ---
 title: "生物信息之LINUX 篇"
 date: 2020-08-23T12:31:42-04:00
-draft: False
+draft: false
 description: "Linux 是生信上游分析的重要基础"
 tags: [
     "Python",
