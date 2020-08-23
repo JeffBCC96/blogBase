@@ -17,7 +17,6 @@ type: "post"
 <!--more-->
 
 
-
 ### 1. Linux 基本介绍及操作
 
 - <img src="image-20200812171027370.png" alt="image-20200812171027370" style="zoom:50%;" />
