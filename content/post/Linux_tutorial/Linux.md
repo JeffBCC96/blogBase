@@ -1,5 +1,5 @@
 ---
-title: "生信之Linux篇"
+title: "生物信息之LINUX 篇"
 date: 2020-08-23T12:31:42-04:00
 draft: False
 description: "Linux 是生信上游分析的重要基础"
@@ -11,9 +11,6 @@ type: "post"
 
 ---
 
-
-
-## 生物信息 之 LINUX 篇
 
 这篇文章从生信宝典中摘录并整理了内容。我也将会陆续更新相关知识。
 
