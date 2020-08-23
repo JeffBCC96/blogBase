@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rong Ma</title>
+    <link>https://jeffbcc96.github.io/</link>
+    <description>Recent content on Rong Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Aug 2020 16:58:17 -0400</lastBuildDate>
+    
+	<atom:link href="https://jeffbcc96.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RNA_seq</title>
+      <link>https://jeffbcc96.github.io/post/rna_seq/</link>
+      <pubDate>Sun, 23 Aug 2020 16:58:17 -0400</pubDate>
+      
+      <guid>https://jeffbcc96.github.io/post/rna_seq/</guid>
+      <description>This is the test for our post</description>
+    </item>
+    
+    <item>
+      <title>生物信息之LINUX 篇</title>
+      <link>https://jeffbcc96.github.io/post/linux/linux/</link>
+      <pubDate>Sun, 23 Aug 2020 12:31:42 -0400</pubDate>
+      
+      <guid>https://jeffbcc96.github.io/post/linux/linux/</guid>
+      <description>&lt;p&gt;这篇文章从生信宝典中摘录并整理了内容。我也将会陆续更新相关知识。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>关于博士学涯的一些建议</title>
+      <link>https://jeffbcc96.github.io/post/phd_advice/</link>
+      <pubDate>Wed, 22 Jul 2020 19:30:16 -0400</pubDate>
+      
+      <guid>https://jeffbcc96.github.io/post/phd_advice/</guid>
+      <description>&lt;p&gt;Lucy A. Taylor 在nature 上给博士生的一些建议， 转载自iNature。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo建立个人博客</title>
+      <link>https://jeffbcc96.github.io/post/hugo/hugo/</link>
+      <pubDate>Mon, 06 Jul 2020 19:05:01 -0400</pubDate>
+      
+      <guid>https://jeffbcc96.github.io/post/hugo/hugo/</guid>
+      <description>&lt;p&gt;都0202年了，哪个可爱的男孩纸或者女孩纸不想拥有一个属于自己的博客呢。但是建一个博客听起来就好麻烦哦，还好有hugo这个轻量化的web 框架，从而让我们很快地搭建一个属于自己的免费的博客。让广大网友在第一时间就可以享受到分享的快乐以及成就感。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Django Deploying (Django 部署)</title>
+      <link>https://jeffbcc96.github.io/post/django_deploy/</link>
+      <pubDate>Sat, 04 Jul 2020 00:53:26 -0400</pubDate>
+      
+      <guid>https://jeffbcc96.github.io/post/django_deploy/</guid>
+      <description>Author: Rong Ma</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jeffbcc96.github.io/archives/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeffbcc96.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jeffbcc96.github.io/about/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeffbcc96.github.io/about/</guid>
+      <description>关于我-Rong
+我喜欢分享我的故事，我的所见所闻给大家。可能不是所有人都能认可，但是希望我的分享能带给你们快乐，哪怕提升一点点兴趣，我也心满意足！
+ 我的博客将会以中文或英文的形式来进行发布。近期我会将我布置整个博客网站的过程用视频或者帖子的方式发布在youtube， 哔哩哔哩上，敬请期待~~  </description>
+    </item>
+    
+  </channel>
+</rss>

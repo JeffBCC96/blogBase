@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Rong Ma</title>
+    <link>https://jeffbcc96.github.io/tags/</link>
+    <description>Recent content in Tags on Rong Ma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Aug 2020 16:58:17 -0400</lastBuildDate>
+    
+	<atom:link href="https://jeffbcc96.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python</title>
+      <link>https://jeffbcc96.github.io/tags/python/</link>
+      <pubDate>Sun, 23 Aug 2020 16:58:17 -0400</pubDate>
+      
+      <guid>https://jeffbcc96.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://jeffbcc96.github.io/tags/linux/</link>
+      <pubDate>Sun, 23 Aug 2020 12:31:42 -0400</pubDate>
+      
+      <guid>https://jeffbcc96.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://jeffbcc96.github.io/tags/life/</link>
+      <pubDate>Wed, 22 Jul 2020 19:30:16 -0400</pubDate>
+      
+      <guid>https://jeffbcc96.github.io/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://jeffbcc96.github.io/tags/hugo/</link>
+      <pubDate>Mon, 06 Jul 2020 19:05:01 -0400</pubDate>
+      
+      <guid>https://jeffbcc96.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://jeffbcc96.github.io/tags/django/</link>
+      <pubDate>Sat, 04 Jul 2020 00:53:26 -0400</pubDate>
+      
+      <guid>https://jeffbcc96.github.io/tags/django/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
