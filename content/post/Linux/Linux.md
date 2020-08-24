@@ -345,14 +345,14 @@ type: "post"
         - nohup command &  放入后台不中断运行
         - 其他 <img src="image-20200814174055416.png" alt="image-20200814174055416" style="zoom:50%;" />
 
-==Questions:== 
+<mark>Questions:<mark>
 
 1. <img src="image-20200815151942183.png" alt="image-20200815151942183" style="zoom:50%;" />
 2. what does usage mean in bash script.
 
 
 
-==Reference:==
+<mark>Reference:<mark>
 
 1. 生信宝典
 

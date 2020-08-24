@@ -26,7 +26,7 @@ type: "post"
 5. `git init`
 6. `git remote add origin <总仓库地址>`
 7. 去themes.hugo 下载想要的主题 
-8. `git submodule -b origin <主题git地址> <themes/主题名字>`
+8. `git submodule add -b origin <主题git地址> <themes/主题名字>`
 
 **搭建和调试**
 1. 换一下这个conf 文件 或者 直接用 example_site 
@@ -42,7 +42,7 @@ type: "post"
 3. `git commit -m <update>`
 4. `git push origin master`
 5. 如果已经建了public 这个文件 先删除`rm -rf ./public`
-6. `git submodule -b origin <网页仓库地址> public`
+6. `git submodule add -b origin <网页仓库地址> public`
 7. `hugo --theme=<主题名字>`
 8. `cd public`
 9. `git add .`
