@@ -76,19 +76,19 @@ cheatsheet website: https://www.pythoncheatsheet.org/#The-Zen-of-Python
 
 #### 2.1 Numpy
 
-<img src="../image-20200912190005469.png" alt="image-20200912190005469" style="zoom:50%;" />
+<img src="../image-20200912190005469.png" alt="image-20200912190005469" style="zoom:30%;" />
 
 
 
 #### 2.2 Pandas
 
-<img src="../image-20200912190111208.png" alt="image-20200912190111208" style="zoom:50%;" />
+<img src="../image-20200912190111208.png" alt="image-20200912190111208" style="zoom:30%;" />
 
 
 
 #### 2.3 Matplotlib
 
-<img src="../image-20200912190620860.png" alt="image-20200912190111208" style="zoom:50%;" />
+<img src="../image-20200912190620860.png" alt="image-20200912190111208" style="zoom:30%;" />
 
 
 
@@ -109,7 +109,7 @@ cheatsheet website: https://www.pythoncheatsheet.org/#The-Zen-of-Python
 
 <img src="../5fmqo3b0i1j31.png" alt="image-20200912191430117" style="zoom:100%;" />
 
-<img src="../1*3DaRml5vdPK_fCCCxBEHnA.png" alt="Linux/UNIX Command Quick Reference" style="zoom:100%;" />
+<img src="../1*3DaRml5vdPK_fCCCxBEHnA.png" alt="Linux/UNIX Command Quick Reference" style="zoom:120%;" />
 
 
 
