@@ -76,27 +76,28 @@ cheatsheet website: https://www.pythoncheatsheet.org/#The-Zen-of-Python
 
 #### 2.1 Numpy
 
-<img src="../image-20200912190005469.png" alt="image-20200912190005469" style="zoom:80%;" />
+<img src="../image-20200912190005469.png" alt="image-20200912190005469" style="zoom:50%;" />
 
 
 
 #### 2.2 Pandas
 
-<img src="../image-20200912190111208.png" alt="image-20200912190111208" style="zoom:80%;" />
+<img src="../image-20200912190111208.png" alt="image-20200912190111208" style="zoom:50%;" />
 
 
 
 #### 2.3 Matplotlib
 
-![image-20200912190620860](../image-20200912190620860.png)
+<img src="../image-20200912190620860.png" alt="image-20200912190111208" style="zoom:50%;" />
+
 
 
 
 #### 2.4 base
 
-<img src="/Users/marong/Desktop/image-20200912191406279.png" alt="image-20200912191406279" style="zoom:80%;" />
+<img src="../image-20200912191406279.png" alt="image-20200912191406279" style="zoom:80%;" />
 
-<img src="/Users/marong/Desktop/image-20200912191430117.png" alt="image-20200912191430117" style="zoom:80%;" />
+<img src="../image-20200912191430117.png" alt="image-20200912191430117" style="zoom:80%;" />
 
 
 
@@ -106,9 +107,9 @@ cheatsheet website: https://www.pythoncheatsheet.org/#The-Zen-of-Python
 
 #### 3.1 Base
 
-![img](../5fmqo3b0i1j31.png)
+<img src="../5fmqo3b0i1j31.png" alt="image-20200912191430117" style="zoom:100%;" />
 
-<img src="/Users/marong/Desktop/1*3DaRml5vdPK_fCCCxBEHnA.png" alt="Linux/UNIX Command Quick Reference" style="zoom:100%;" />
+<img src="../1*3DaRml5vdPK_fCCCxBEHnA.png" alt="Linux/UNIX Command Quick Reference" style="zoom:100%;" />
 
 
 
